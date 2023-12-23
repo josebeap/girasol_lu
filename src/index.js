@@ -4,6 +4,7 @@ import ReactDOM from "react-dom/client";
 // import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import Girasol from "./components/Girasol";
+//import Botones from "./components/Botones";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
